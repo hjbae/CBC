@@ -4,7 +4,7 @@ format long
 
 addpath 'fourier_tools'
 
-% do not use Jane's numbering
+% default numbering: 0, alternate numbering: 1 
 jnumb = 0;
 
 % set grid
